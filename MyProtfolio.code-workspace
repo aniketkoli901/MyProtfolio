@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "MyProtfolio",
+			"path": "."
+		},
+		{
+			"name": "images",
+			"path": "../../Documents/portfolio-website-main/images"
+		}
+	],
+	"settings": {}
+}
